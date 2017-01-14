@@ -1,0 +1,24 @@
+{
+  "name": "js-diff",
+  "version": "0.0.1",
+  "description": "Javascript function that produces a diff of two input strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hennessey/js-diff.git"
+  },
+  "author": "jghennes@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hennessey/js-diff/issues"
+  },
+  "homepage": "https://github.com/hennessey/js-diff#readme",
+  "devDependencies": {
+    "eslint": "^3.13.1",
+    "eslint-config-airbnb-base": "^11.0.1",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}
